@@ -17,4 +17,9 @@ My nightime routine includes
 2. cry
 3. sleep
 
+## My Motto
+*For liberty, for life, for super Earth*
+## Favortit quotes
+<b>See</b> previous quotes
+
 
