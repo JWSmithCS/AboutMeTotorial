@@ -29,7 +29,7 @@ My nightime routine includes
 ## people of interest
 ---
 [HIM][1]<br>
-![wesss](https://github.com/JWSmithCS/AboutMeTotorial/edit/main/img)
+![wesss](https://github.com/JWSmithCS/AboutMeTotorial/edit/main/imgfold/download.jpg)
 
 
 
