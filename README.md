@@ -31,5 +31,12 @@ My nightime routine includes
 [HIM][1]<br>
 ![wesss](https://github.com/JWSmithCS/AboutMeTotorial/edit/main/imgfold/download.jpg)
 
-
+## table
+--
+| Terms |
+|:-|
+| vivid |
+| oriflamme |
+| Eccentic |
+| supine |
 
